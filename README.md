@@ -81,12 +81,13 @@ Este proyecto está bajo la Licencia (GPLv3) - mira el archivo [LICENSE.md](LICE
 * Da las gracias públicamente 🤓.
 * etc.
 
-CONTACT
-FACEBOOK: https://www.facebook.com/jhonijlm
+## Contacto
 
-TWITTER: https://twitter.com/jhonijlm
+**FACEBOOK: [jhonijlm](https://www.facebook.com/jhonijlm)
 
-TELEGRAM: https://t.me/jhonijlm
+**TWITTER: [jhonijlm](https://twitter.com/jhonijlm)
+
+**TELEGRAM: [jhonijlm](https://t.me/jhonijlm)
 
 ---
 ⌨️ con ❤️ por [jhonijlm](https://github.com/jhonijlm) 😊
