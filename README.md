@@ -1,18 +1,85 @@
-# ChatBot-de-consulta-sobre-noticias-en-Telegram
-ChatBot de consulta sobre noticias en Telegram
-![ejecucion](https://user-images.githubusercontent.com/29264001/49101137-7e454680-f243-11e8-9ff7-eee70105ec48.png)+
+# ChatBot de consulta sobre noticias en Telegram
 
-INTRODUCCION
+_La construcción de este Bot destinado a interactuar con las personas y desarrollado en el lenguaje de programación Python ofreciendo información de noticias dadas cada día en los portales web noticiario de nuestra ciudad, ya que, las personas no tienen el hábito de acceder a esos sitios web, se les ofrecerá esta información en la aplicación Telegram que se encuentra gratis en Play Store._
 
-En la actualidad donde los sistemas inteligentes intentan simular la interacción humana artificialmente en diferentes plataformas de comunicación entre ellas son: las redes sociales, aplicaciones en los dispositivos móviles y sitios web el cual se adaptan automáticamente en tareas repetitivas a través de estos medios, cuya realización por parte de una persona común sería imposible o muy tediosa.
-Así mismo, se encuentran Bots que son rastreadores de páginas web en los diferentes motores de búsquedas que existen en el mercado, obteniendo así información automática de manera mucho más rápida y efectiva en comparación de las personas; Así existiendo Bots malicioso que recopilan correos electrónicos con fines publicitarios, Sin embargo, existen otros que influyen en debates y ayuda en salud, siendo una IA que simulan las conversaciones con las personas con el habla natural o lenguaje natural.
-De tal forma, que este programa informático es perfecto para poder llegar a más personas que necesiten de información variada y actualizada en sus aplicativos tales como Messenger, WhatsApp y Telegram, siendo este último la aplicación donde se desarrollará el proyecto, además mostrando información verificada de buenas fuentes.
 
-REALIDAD PROBLEMATICA
+## Comenzando 🚀
 
-Hoy en día, la población está más desinformada con acontecimientos que son relevantes en el país y no se dan cuenta que hay empresas extranjeras que negocian con el estado peruano las obtenciones de licitación en minería, construcción de escuelas, centros médicos y se despilfarran el dinero en manejo sucio de adendas, entonces la gente del país no encuentra y no se informa para poder alzar su voz en contra de estas acciones. 
-Por otro lado, los Bots inteligentes ya vienen acoplándose a diferentes aplicaciones para interactuar con el usuario, siendo esta una manera de informar, formar debates.
-Al aire libre
+_Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
+
+
+
+### Pre-requisitos 📋
+
+_Que cosas necesitas para instalar el software y como instalarlas_
+
+```
+
+$ pip install pyTelegramBotAPI
+$ pip install beautifulsoup4
+$ pip install requests
+
+```
+
+### Instalación 🔧
+
+
+_Desde la terminal ejecutar_
+
+```
+$ python KikitiBot.py
+```
+
+![ejecucion](https://user-images.githubusercontent.com/29264001/49101137-7e454680-f243-11e8-9ff7-eee70105ec48.png)
+
+
+## Ejecutando las pruebas ⚙️
+
+![prueba1](https://user-images.githubusercontent.com/29264001/49101461-3ecb2a00-f244-11e8-8b68-b4e8188ba788.png)
+
+![prueba2](https://user-images.githubusercontent.com/29264001/49101660-c4e77080-f244-11e8-928a-0b1ba69083d1.png)
+
+![prueba3](https://user-images.githubusercontent.com/29264001/49101789-0e37c000-f245-11e8-88f0-20b58a7b0c74.png)
+
+![prueba4](https://user-images.githubusercontent.com/29264001/49101825-30314280-f245-11e8-88cf-cdd4627ac36e.png)
+
+
+## Construido con Python 🛠️
+
+_Herramientas_
+
+* [Python](https://www.python.org/) - Lenguaje de programación
+* [Visual Code](https://code.visualstudio.com/) - Edtior de código fuente
+* [pyTelegramBotAPI](https://github.com/eternnoir/pyTelegramBotAPI) - Api que permite manipular el bot
+* [beautifulsoup4](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) - Libreria para aplicar Web Scraping
+
+
+## Versionado 📌
+
+Usamos [Git](https://git-scm.com/) para el versionado. Para todas las versiones disponibles, mira los [tags en este repositorio](https://github.com/jhonijlm/ChatBot-de-consulta-sobre-noticias-en-Telegram/commits/master).
+
+## Autores ✒️
+
+_Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
+
+* **Jhoni Larico** - *Jefe de gestión del proyecto y programador* - [jhonijlm](https://github.com/jhonijlm)
+* **Anderson Macarlupu** - *Analista*
+* **Jonathan Lázaro** - *Analista*
+* **Gbariel Ramirez** - *Analista*
+* **Luis Reyes** - *Test de calidad de software*
+* **Miguel Villanueva** - *Test de calidad de software*
+
+
+## Licencia 📄
+
+Este proyecto está bajo la Licencia (GPLv3) - mira el archivo [LICENSE.md](LICENSE.md) para detalles
+
+
+## Expresiones de Gratitud 🎁
+
+* Comenta a otros sobre este proyecto 📢
+* Da las gracias públicamente 🤓.
+* etc.
 
 CONTACT
 FACEBOOK: https://www.facebook.com/jhonijlm
@@ -21,25 +88,9 @@ TWITTER: https://twitter.com/jhonijlm
 
 TELEGRAM: https://t.me/jhonijlm
 
+---
+⌨️ con ❤️ por [jhonijlm](https://github.com/jhonijlm) 😊
 
 
 
-INTRODUCTION
-
-Currently, where intelligent systems try to simulate human interaction artificially in different communication platforms between them are: social networks, applications in mobile devices and websites which automatically adapt to repetitive tasks through these means, whose realization on the part of an ordinary person would be impossible or very tedious.
-Also, there are Bots that are crawlers of web pages in the different search engines that exist in the market, thus obtaining automatic information in a much faster and more effective way compared to the people; So there are malicious bots that collect emails for advertising purposes, however, there are others that influence debates and help in health, being an AI that simulates conversations with people with natural speech or natural language.
-In this way, this software is perfect to reach more people who need varied and updated information in their applications such as Messenger, WhatsApp and Telegram, the latter being the application where the project will be developed, also showing verified information from good sources
-
-PROBLEMATIC REALITY
-
-Today, the population is more uninformed with events that are relevant in the country and do not realize that there are foreign companies that negotiate with the Peruvian state mining procurement, construction of schools, medical centers and the money is squandered in dirty handling of addends, then the people of the country do not find and do not inform themselves to be able to raise their voice against these actions.
-On the other hand, Smart Bots are already coupling to different applications to interact with the user, this being a way to inform, form debates.
-
-
-CONTACT
-FACEBOOK: https://www.facebook.com/jhonijlm
-
-TWITTER: https://twitter.com/jhonijlm
-
-TELEGRAM: https://t.me/jhonijlm
 
