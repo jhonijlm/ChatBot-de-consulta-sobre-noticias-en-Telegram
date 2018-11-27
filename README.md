@@ -1,5 +1,6 @@
 # ChatBot-de-consulta-sobre-noticias-en-Telegram
 ChatBot de consulta sobre noticias en Telegram
+![ejecucion](https://user-images.githubusercontent.com/29264001/49101137-7e454680-f243-11e8-9ff7-eee70105ec48.png)+
 
 INTRODUCCION
 
