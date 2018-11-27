@@ -49,7 +49,7 @@ $ python KikitiBot.py
 _Herramientas_
 
 * [Python](https://www.python.org/) - Lenguaje de programación
-* [Visual Code](https://code.visualstudio.com/) - Edtior de código fuente
+* [Visual Code](https://code.visualstudio.com/) - Editor de código fuente
 * [pyTelegramBotAPI](https://github.com/eternnoir/pyTelegramBotAPI) - Api que permite manipular el bot
 * [beautifulsoup4](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) - Libreria para aplicar Web Scraping
 
